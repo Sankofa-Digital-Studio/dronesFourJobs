@@ -1,4 +1,4 @@
-# Politibru
+# Nx Pattern
 
 Matjhabeng civic accountability pilot. Run `npm test` to verify the project and `npm start` to open the ward brief at http://localhost:4173. Requires Node.js 22 or newer. Static deployment uses the `public/` directory.
 
